@@ -26,6 +26,7 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
+    "useUnknownInCatchVariables": false,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
     "target": "es6",
